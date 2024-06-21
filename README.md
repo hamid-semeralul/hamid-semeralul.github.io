@@ -1,4 +1,6 @@
-This space contains Generative AI project work
+This space contains Generative AI project work.
+
+My CV:
 EDUCATION: 
 Ontario Tech University - 2009 - Oshawa, Canada - MASc (Mechanical Engineering)		                                
 University of Ottawa - 2004 - Ottawa, Canada - BASc (Electrical Engineering)
@@ -11,16 +13,16 @@ Senior Customer Trainer – ATS Automation - Cambridge, Canada, 2022-2024
 Instructor – Michener Institute - University Health Network (UHN) - Toronto, Canada, 2020-present
 •	Designed curriculum and developed content for a new Artificial Intelligence (AI) certificate for professionals
 •	Delivered online tutorials and training sessions; lessons included:
-	AI algorithms 
-	Project and Product Management
-	Cybersecurity
+  -	AI algorithms 
+  - Project and Product Management
+  -	Cybersecurity
 
 Instructor – Faculty of Business IT - Ontario Tech University - Oshawa, Canada, 2018-2019
 •	Prepared and delivered lectures for in-class, online and hybrid courses
 •	Topics included:
-	Artificial Intelligence: regression, clustering, classification, and Neural Networks
-	Business Forecasting Techniques: data acquisition, cleanup, transformation, and visualization
-	Statistics: normal distributions, confidence intervals, time-series analysis, and Bayesian Inference
+  - Artificial Intelligence: regression, clustering, classification, and Neural Networks
+  -	Business Forecasting Techniques: data acquisition, cleanup, transformation, and visualization
+  -	Statistics: normal distributions, confidence intervals, time-series analysis, and Bayesian Inference
 
 Project Lead – Ontario Power Generation (OPG) - Pickering, Canada, 2017-2018
 •	Lead teams of engineers, contractors, business analysts and technicians to implement modification projects 
@@ -35,9 +37,9 @@ Research/Teaching Assistant – Ontario Tech University - Oshawa, Canada, 2005-2
 •	Improved the quality of novel manufacturing systems through automation
 •	Trained employees of various seniorities; performed hardware and software technical support duties
 •	Led tutorials and lab sessions in courses such as:
-	Mechanical Systems Design 
-	Integrated Manufacturing Systems 
-	Statistical Quality Control
+  -	Mechanical Systems Design 
+  -	Integrated Manufacturing Systems 
+  -	Statistical Quality Control
 
 Computer Skills:
 •	AI: Python, TensorFlow, AWS SageMaker, MATLAB, SAP PA
