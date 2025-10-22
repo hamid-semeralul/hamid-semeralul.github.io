@@ -31,7 +31,7 @@ Instructor – Faculty of Business IT - Ontario Tech University - Oshawa, Canada
 
 Project Lead – Ontario Power Generation (OPG) - Pickering, Canada, 2017-2018<br/>
 •	Lead teams of engineers, contractors, business analysts and technicians to implement modification projects <br/>
-•	Projects included outage work where tasks and activities had to be carefully planned and executed
+•	Projects included time sensitive outage work where tasks and activities had to be carefully planned, monitored and executed
 
 Technical Consultant - Kinectrics - Toronto, Canada, 2010-2017<br/>
 •	Successfully championed the creation of modular and scalable software systems that helped clients manage regulatory compliance projects; software later repurposed across clients driving $5M+ in additional revenues <br/>
@@ -50,9 +50,12 @@ Research/Teaching Assistant – Ontario Tech University - Oshawa, Canada, 2005-2
     •	Statistical Quality Control
 
 **Computer Skills**<br/>
-•	AI: Python, TensorFlow, AWS SageMaker, MATLAB, SAP PA<br/>
-•	Training and Animation: Adobe Captivate, MS PowerPoint; Blender, SolidWorks, Sketchfab (3D)<br/>
+•	GenerativeAI: OpenAI Chatgpt, Google Gemini/Nano Banana, Anthropic Claude, Higgsfield.ai
+•	Machine Learning: Python, TensorFlow, AWS SageMaker, MS Azure, MATLAB, SAP PA<br/>
+•	Video and Post Production: Da Vinci Resolve, CapCut, MS ClipChamp<br/>
+•	Training: Adobe Captivate, Kaltura
+•	3D Animation: Blender, SolidWorks, Sketchfab (3D) <br/>
 •	MS Office Suite: MS Excel, Visual Basics, Visio, PowerPoint, and Word<br/>
-•	Database: SQL, MS Access <br/>
+•	Database: MongoDB, SQL, MS Access <br/>
 •	Operation Systems:  Windows and Linux
 
