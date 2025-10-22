@@ -11,7 +11,7 @@ University of Ottawa - 2004 - Ottawa, Canada - BASc (Electrical Engineering)
 • Developed a training course on Microsoft Copilot in Excel for professionals<br/>
 • Evaluated and comparing AI and cloud platforms (AWS, Azure, GCP) to guide strategic adoption decisions<br/>
 • Ensured compliance with various standards while facilitating partnerships between Canadian and Saudi AI institutions<br/>
-• Created generative AI content for training, advertising and film production, demonstrating creative AI applications and proof-of-concept prototypes; Sample portfolio can be accessed here.<br/>
+• Created generative AI content for training, advertising and film production, demonstrating creative AI applications and proof-of-concept prototypes; Sample portfolio can be accessed [here]().<br/>
 
 ### Senior Customer Trainer – ATS Automation - Cambridge, Canada, 2022-2024<br/>
 •Designed training material for automated and robotic systems used for plant maintenance projects<br/>
