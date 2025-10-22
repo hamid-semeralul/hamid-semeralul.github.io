@@ -5,14 +5,14 @@ University of Ottawa - 2004 - Ottawa, Canada - BASc (Electrical Engineering)
 
 **EXPERIENCE**<br/>	
 Consultant – Go North Contracting – Saudi Arabia / Canada, 2024–present<br/>
-• Leading consulting and innovation initiatives across AI strategy, data governance, and applied Generative AI. Key projects include:<br/>
-• Designing an AI consulting framework for a Saudi e-government solutions company, covering service portfolio definition, delivery models, and governance mechanisms.<br/>
-• Developing generative AI content pipelines for advertising and documentary film production, demonstrating creative AI applications and proof-of-concept prototypes.<br/>
-• Building Generative AI-ready datasets by collecting, cleaning, and labeling multimodal data for a Saudi construction client.<br/>
-• Developing a training course on Microsoft Copilot in Excel for Saudi professionals.<br/>
-• Advising a healthcare startup on leveraging AI to streamline administrative operations and data management.<br/>
-• Evaluating and comparing AI and cloud platforms (AWS, Azure, GCP) to guide strategic adoption decisions.<br/>
+• Leading consulting and innovation initiatives across AI strategy, data governance, and applied Generative AI<br/>
+• Designed an AI consulting framework covering data infrastructure needs, deployment, and governance mechanisms.<br/>
+•	Turned requirements from plain English and industry jargon to technical language 
+• Built Generative AI-ready datasets by collecting, cleaning, and labeling multimodal data for a Saudi construction client.<br/>
+• Developed a training course on Microsoft Copilot in Excel for professionals.<br/>
+• Evaluated and comparing AI and cloud platforms (AWS, Azure, GCP) to guide strategic adoption decisions.<br/>
 • Ensuring compliance with medical, cybersecurity, and ethical standards while facilitating partnerships between Canadian and Saudi AI institutions.<br/>
+• Created generative AI content for training, advertising and film production, demonstrating creative AI applications and proof-of-concept prototypes Sample portfolio can be accessed here.<br/>
 
 Senior Customer Trainer – ATS Automation - Cambridge, Canada, 2022-2024<br/>
 •	Designed training material for automated and robotic systems used for plant maintenance projects<br/>
@@ -20,10 +20,7 @@ Senior Customer Trainer – ATS Automation - Cambridge, Canada, 2022-2024<br/>
 
 Instructor – Michener Institute - University Health Network (UHN) - Toronto, Canada (online), 2020-present<br/>
 •	Designed curriculum and developed content for a new Artificial Intelligence (AI) certificate for professionals<br/>
-•	Delivered online tutorials and training sessions; lessons included:    
-  * AI algorithms   
-  * Project and Product Management  
-  *	Cybersecurity  
+•	Delivered online tutorials and training sessions; lessons included: AI Algorithms, Data Science and AI Product/Project Management
 
 Instructor – Faculty of Business IT - Ontario Tech University - Oshawa, Canada, 2018-2019<br/>
 •	Prepared and delivered lectures for in-class, online and hybrid courses<br/>
@@ -37,9 +34,12 @@ Project Lead – Ontario Power Generation (OPG) - Pickering, Canada, 2017-2018<b
 •	Projects included outage work where tasks and activities had to be carefully planned and executed
 
 Technical Consultant - Kinectrics - Toronto, Canada, 2010-2017<br/>
-•	Successfully championed the creation of multiple in-house software that helped various plants manage regulatory compliance projects <br/>
+•	Successfully championed the creation of modular and scalable software systems that helped clients manage regulatory compliance projects; software later repurposed across clients driving $5M+ in additional revenues <br/>
+•	Held workshops with various stakeholders to gather and consolidate requirements<br/>
+•	Wrote documents to explain architecture, relationships, infrastructure requirements etc. to stakeholders<br/>
+•	Developed acceptance tests and verification plans; led a team of testers in functional, performance, non-functional, and human factors tests<br/>
 •	Delivered more than 20 training seminars to internal and external users; wrote training manuals; products used by more than 50 users over 5 years<br/>
-•	Developed acceptance tests and verification plans; led a team of testers in functional, performance, non-functional, and human factors tests; products passed all tests across clients
+•	Worked with IT department to modify IT architecture taking into account security, performance and cost <br/>
 
 Research/Teaching Assistant – Ontario Tech University - Oshawa, Canada, 2005-2010<br/>
 •	Improved the quality of novel manufacturing systems through automation<br/>
