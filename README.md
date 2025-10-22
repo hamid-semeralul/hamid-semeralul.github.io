@@ -43,9 +43,9 @@ Research/Teaching Assistant – Ontario Tech University - Oshawa, Canada, 2005-2
 •Improved the quality of novel manufacturing systems through automation<br/>
 •Trained employees of various seniorities; performed hardware and software technical support duties<br/>
 •Led tutorials and lab sessions in courses such as:<br/>
-  -Mechanical Systems Design<br/> 
-  -Integrated Manufacturing Systems<br/> 
-  -Statistical Quality Control<br/>
+ -Mechanical Systems Design<br/> 
+ -Integrated Manufacturing Systems<br/> 
+ -Statistical Quality Control<br/>
 
 **Computer Skills**<br/>
 •GenerativeAI: OpenAI Chatgpt, Google Gemini/Nano Banana, Anthropic Claude, Higgsfield.ai<br/>
