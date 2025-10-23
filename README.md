@@ -61,4 +61,4 @@ University of Ottawa - 2004 - Ottawa, Canada - BASc (Electrical Engineering)
 •Operation Systems:  Windows and Linux
 
 ## Portfolio<br/>
-• Some of my [Generative AI work](https://github.com/hamid-semeralul/hamid-semeralul.github.io/blob/main/portfolio.md).<br/>
+• Some of my [Generative AI (and pre GenAI) work](https://github.com/hamid-semeralul/hamid-semeralul.github.io/blob/main/portfolio.md)<br/>
