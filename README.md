@@ -1,5 +1,5 @@
-<img width="222" height="268" alt="image" src="https://github.com/user-attachments/assets/c2ddd78e-d38c-4156-a69a-0dd3c507a51b" />
 
+<img width="200" height="250" alt="nano headshot noir cartoon" src="https://github.com/user-attachments/assets/fbeb56af-9e88-4998-90c4-7da6e52f16cb" />
 
 # CV
 ## EDUCATION<br/>
