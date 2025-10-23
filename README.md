@@ -1,3 +1,6 @@
+<img width="222" height="268" alt="image" src="https://github.com/user-attachments/assets/c2ddd78e-d38c-4156-a69a-0dd3c507a51b" />
+
+
 # CV
 ## EDUCATION<br/>
 Ontario Tech University - 2009 - Oshawa, Canada - MASc (Mechanical Engineering)		                                
