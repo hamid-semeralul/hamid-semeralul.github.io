@@ -54,8 +54,8 @@ University of Ottawa - 2004 - Ottawa, Canada - BASc (Electrical Engineering)
 •GenerativeAI: OpenAI Chatgpt, Google Gemini/Nano Banana, Anthropic Claude, Higgsfield.ai<br/>
 •Machine Learning: Python, TensorFlow, AWS SageMaker, MS Azure, MATLAB, SAP PA<br/>
 •Video and Post Production: Da Vinci Resolve, CapCut, MS ClipChamp<br/>
-•Training: Adobe Captivate, Kaltura
-•3D Animation: Blender, SolidWorks, Sketchfab (3D) <br/>
+•Training: Adobe Captivate, Kaltura<br/>
+•3D Animation/VR: Blender, SolidWorks, Sketchfab (3D) <br/>
 •MS Office Suite: MS Excel, Visual Basics, Visio, PowerPoint, and Word<br/>
 •Database: MongoDB, SQL, MS Access <br/>
 •Operation Systems:  Windows and Linux
