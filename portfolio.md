@@ -18,7 +18,7 @@ https://github.com/user-attachments/assets/f485b3cf-6d36-4927-b444-0a5745e667c1
 
 ## Examples of My Pre-GEN AI Work
 ### Virtual Reality (VR) lesson explaining nuclear fission
-https://sketchfab.com/models/001ad554589442959780744124fdb054
+https://skfb.ly/6tUyq
 
 ### Virtual Reality (VR) lesson explaining electricity generation
-https://sketchfab.com/models/4b9a90e3288c41b1afd761fd9006e139
+https://skfb.ly/6tJFN
