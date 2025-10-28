@@ -9,6 +9,8 @@ University of Ottawa - 2004 - Ottawa, Canada - BASc (Electrical Engineering)
 ### Consultant – Go North Contracting – Saudi Arabia / Canada, 2024–present<br/>
 • Designed an AI consulting framework covering data infrastructure needs, solutions deployment, and governance mechanisms<br/>
 • Built Generative AI-ready datasets by collecting, cleaning, and labeling multimodal data for a Saudi construction client<br/>
+•	Guided free lancers in entertainment industry in the use of Generative AI in creating films and ads<br/>
+•	Developing a training course for the use of Generative AI for marketing professionals in KSA<br/>
 • Turned requirements from plain English and industry jargon to technical language<br/> 
 • Developed a training course on Microsoft Copilot in Excel for professionals<br/>
 • Evaluated and comparing AI and cloud platforms (AWS, Azure, GCP) to guide strategic adoption decisions<br/>
