@@ -1,7 +1,6 @@
 
 <img width="200" height="250" alt="nano headshot noir cartoon" src="https://github.com/user-attachments/assets/fbeb56af-9e88-4998-90c4-7da6e52f16cb" />
 
-# CV
 ## EDUCATION<br/>
 Ontario Tech University - 2009 - Oshawa, Canada - MASc (Mechanical Engineering)		                                
 University of Ottawa - 2004 - Ottawa, Canada - BASc (Electrical Engineering)
@@ -20,7 +19,7 @@ University of Ottawa - 2004 - Ottawa, Canada - BASc (Electrical Engineering)
 •Designed training material for automated and robotic systems used for plant maintenance projects<br/>
 •Applied Universal Designed for Learning (UDL) to successfully meet regulatory and customer requirements<br/>
 
-### Instructor – Michener Institute - University Health Network (UHN) - Toronto, Canada (online), 2020-present<br/>
+### Instructor – Michener Institute - University Health Network (UHN) - Toronto, Canada (online), 2019-present<br/>
 •Designed curriculum and developed content for a new Artificial Intelligence (AI) certificate for professionals<br/>
 •Delivered online tutorials and training sessions; lessons included: AI Algorithms, Data Science and AI Product/Project Management
 
